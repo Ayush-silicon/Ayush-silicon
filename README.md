@@ -35,37 +35,81 @@ const ayush = {
 
 ## 🔧 Tech Stack
 
-### 🎨 Frontend Development
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts,tailwind,bootstrap" />
-</div>
+<div align="center">
+🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts,tailwind,bootstrap&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### ⚙️ Backend Development  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</div>
+⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-### 🗄️ Database & Storage
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</div>
+🗄️ Database & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-### ☁️ Cloud & DevOps
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,linux,bash" />
-</div>
+☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,linux,bash&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+</p>
 
-### 🧪 Testing & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=jest,cypress,postman,figma,webpack" />
-</div>
+🧪 Testing & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress,postman,figma,webpack,vscode&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-### 📊 Data Science & Analytics
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+📊 Data Science & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="48" height="48"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
+</p>
+</div>
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Languages&titleColor=2E9EFF&lineCount=3&theme=github_dark&line1=JavaScript,js,25;&line2=Python,python,20;&line3=TypeScript,typescript,15;&line4=HTML/CSS,html,15;&line5=Shell,shell,10;&line6=Others,others,15;" alt="Tech Stack" />
 </div>
 
 ---
