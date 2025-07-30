@@ -70,11 +70,6 @@ const ayush = {
 </tr>
 </table>
 
-### 🎯 Problem Solving Skills
-<img src="https://img.shields.io/badge/Data%20Structures-Expert-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Algorithms-Advanced-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Dynamic%20Programming-Proficient-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/System%20Design-Intermediate-yellow?style=flat-square" />
 
 </div>
 
