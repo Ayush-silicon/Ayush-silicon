@@ -78,38 +78,34 @@ const ayush = {
 ## 🔧 Tech Stack
 
 <div align="center">
-
-### 🎨 Frontend Mastery
+  
+🎨 Frontend Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,ts,tailwind,bootstrap,sass,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,sass,materialui&theme=dark" />
 </p>
 <table>
 <tr>
 <td align="center"><strong>⚛️ Frameworks</strong></td>
 <td align="center"><strong>🎨 Styling</strong></td>
-<td align="center"><strong>📱 Mobile</strong></td>
 </tr>
 <tr>
+  
 <td align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</td>
+  
 </tr>
 </table>
 
-### ⚙️ Backend Excellence
+⚙️ Backend Excellence
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark" />
 </p>
 <table>
 <tr>
@@ -125,21 +121,19 @@ const ayush = {
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </td>
 </tr>
 </table>
 
-### 🗄️ Database & Storage Expertise
+🗄️ Database & Storage Expertise
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" />
 </p>
 <table>
 <tr>
 <td align="center"><strong>📊 Relational</strong></td>
 <td align="center"><strong>🍃 NoSQL</strong></td>
-<td align="center"><strong>⚡ Caching & Real-time</strong></td>
 </tr>
 <tr>
 <td align="center">
@@ -150,16 +144,12 @@ const ayush = {
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</td>
 </tr>
 </table>
 
-### ☁️ Cloud & DevOps Mastery
+☁️ Cloud & DevOps Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,ansible,nginx,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,nginx,linux&theme=dark" />
 </p>
 <table>
 <tr>
@@ -185,18 +175,16 @@ const ayush = {
 </tr>
 </table>
 
-### 🧪 Testing & Quality Assurance
+🧪 Testing & Quality Assurance
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
-### 📊 Data Science & Machine Learning
+📊 Data Science & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
@@ -219,15 +207,14 @@ const ayush = {
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
 </td>
 </tr>
 </table>
 
-### 💻 Development Tools & Environment
+💻 Development Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,notion,slack&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -235,14 +222,11 @@ const ayush = {
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
 </div>
-
 <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Languages&titleColor=2E9EFF&lineCount=6&theme=github_dark&line1=JavaScript,js,28;&line2=Python,python,22;&line3=TypeScript,typescript,18;&line4=HTML/CSS,html,12;&line5=Java,java,10;&line6=Shell,shell,10;" alt="Tech Stack" />
 </div>
 
----
 
 ## 💼 What I'm Up To
 
