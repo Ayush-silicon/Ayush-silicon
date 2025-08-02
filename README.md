@@ -250,25 +250,8 @@ const ayush = {
 - **Performance Optimization** - Frontend & Backend tuning
 
 </td>
-<td width="50%">
 
-### 👯 Looking to Collaborate On
-- **Full-Stack Web Applications**
-  - E-commerce and SaaS platforms
-  - Real-time applications with WebSocket
-  - Progressive Web Apps (PWAs)
-- **DevOps & Infrastructure Projects**
-  - CI/CD pipeline automation
-  - Cloud infrastructure as code
-  - Monitoring and logging solutions
 
-### 🎯 2025 Goals
-- **Land a Full-Stack Developer Role**
-- **Contribute to 5+ Open Source Projects**
-- **Master Cloud Architecture Patterns**
-- **Build 3 Production Applications**
-
-</td>
 </tr>
 </table>
 
