@@ -81,7 +81,7 @@ const ayush = {
   
 🎨 Frontend Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,sass,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap,sass,materialui&theme=dark" />
 </p>
 <table>
 <tr>
@@ -105,7 +105,7 @@ const ayush = {
 
 ⚙️ Backend Excellence
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" />
 </p>
 <table>
 <tr>
