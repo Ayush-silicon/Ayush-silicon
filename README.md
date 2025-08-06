@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Ayush Singh
 
-## 🛠️ Full-Stack Developer & DevOps Engineer
+## 🛠️ Full-Stack Developer & DevOps Enthusiast
 *Passionate about building scalable applications and automating infrastructure*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+Enthusiast;Open+Source+Contributor;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
