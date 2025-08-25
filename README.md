@@ -32,7 +32,6 @@ const ayush = {
     codingProfiles: {
         leetcode: "300+ problems solved",
         geeksforgeeks: "Active contributor",
-        Kaggle: "Machine learning enthusiast"
     }
 };
 ```
