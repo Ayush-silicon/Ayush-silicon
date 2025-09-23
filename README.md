@@ -183,33 +183,6 @@ const ayush = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
-📊 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="48" height="48"/>
-</p>
-<table>
-<tr>
-<td align="center"><strong>🤖 ML Frameworks</strong></td>
-<td align="center"><strong>📊 Data Analysis</strong></td>
-<td align="center"><strong>📈 Visualization</strong></td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
-</td>
-</tr>
-</table>
 
 💻 Development Tools & Environment
 <p>
