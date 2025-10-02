@@ -141,14 +141,13 @@ const ayush = {
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 </td>
 </tr>
 </table>
 
 ☁️ Cloud & DevOps Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,nginx,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,nginx,linux&theme=dark" />
 </p>
 <table>
 <tr>
@@ -160,12 +159,10 @@ const ayush = {
 <td align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /><br>
@@ -176,10 +173,9 @@ const ayush = {
 
 🧪 Testing & Quality Assurance
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
