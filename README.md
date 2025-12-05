@@ -195,34 +195,6 @@ const ayush = {
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Languages&titleColor=2E9EFF&lineCount=6&theme=github_dark&line1=JavaScript,js,28;&line2=Python,python,22;&line3=TypeScript,typescript,18;&line4=HTML/CSS,html,12;&line5=Java,java,10;&line6=Shell,shell,10;" alt="Tech Stack" />
 </div>
 
-
-## 💼 What I'm Up To
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Currently Working On
-- **Job Search & Portfolio Enhancement**
-  - Building production-ready full-stack applications
-  - Creating DevOps automation demonstrations
-  - Preparing for technical interviews
-- **Open Source Contributions**
-  - Contributing to React ecosystem projects
-  - Building developer productivity tools
-
-### 🌱 Currently Learning
-- **Advanced System Design** - Scalability patterns
-- **Microservices Architecture** - Docker & Kubernetes
-- **Cloud Native Development** - Azure & AWS services
-- **Performance Optimization** - Frontend & Backend tuning
-
-</td>
-
-
-</tr>
-</table>
-
 ---
 
 ## 📈 Comprehensive GitHub Analytics
