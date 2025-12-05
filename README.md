@@ -242,6 +242,18 @@ const ayush = {
 
 ---
 
+## 📊 Detailed Coding Activity & Contributions
+
+<div align="center">
+  
+### 📈 GitHub Contribution Graph
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-silicon&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
 ## 🌐 All My Coding Profiles & Social Links
 
 <div align="center">
@@ -273,13 +285,6 @@ const ayush = {
 </div>
 
 ---
-
-## 📊 Detailed Coding Activity & Achievements
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-silicon&theme=react-dark&bg_color=0D1117&hide_border=true&line=2E9EFF&point=FFFFFF" />
-</div>
-
   
 ### 💡 *"The best way to predict the future is to implement it."* – Alan Kay
 
